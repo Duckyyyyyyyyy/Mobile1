@@ -1,4 +1,4 @@
-import { Image, StyleSheet, Platform, View, Text, Button } from "react-native";
+import { StyleSheet, View, Text, Button } from "react-native";
 
 import { useState } from "react";
 
